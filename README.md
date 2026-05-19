@@ -4,8 +4,7 @@ A fast-paced endless runner developed in Python (Pygame Zero) as part of a hacka
 
 The player must jump over and dodge incoming obstacles while the game progressively speeds up. The goal is to survive as long as possible.
 
-
-
+-
 
 🧠 Overview
 
@@ -13,8 +12,7 @@ Shmebulock is an arcade-style endless runner focused on obstacle avoidance and s
 
 This project was developed collaboratively during a hackathon. My personal contributions focused on the core engine-side systems rather than visuals or game design.
 
-
-
+-
 
 👤 My Contributions
 
@@ -24,8 +22,7 @@ Speed Progression System: Designed a dynamic game speed system that scales based
 
 Obstacle Spawn & Timing System: Built the enemy spawn logic with randomized intervals that shorten as the game progresses, keeping difficulty balanced yet challenging
 
-
-
+-
 
 🎮 Core Features
 
@@ -41,15 +38,13 @@ Game States: Start screen, gameplay, pause, and game over screens
 
 Sprite Animation: Frame-based hero and environment animations
 
-
-
+-
 
 🕹️ Controls
 
 InputActionSPACEJumpENTERStart / Pause / Resume / Restart
 
-
-
+-
 
 🛠️ Built With
 
@@ -59,8 +54,7 @@ Pygame Zero (pgzero)
 
 PyInstaller (for Windows build)
 
-
-
+-
 
 👥 Development
 
