@@ -42,7 +42,9 @@ Sprite Animation: Frame-based hero and environment animations
 
 🕹️ Controls
 
-InputActionSPACEJumpENTERStart / Pause / Resume / Restart
+SPACE → Jump
+
+ENTER → Start / Pause / Resume / Restart
 
 -
 
