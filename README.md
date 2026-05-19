@@ -6,6 +6,7 @@ The player must jump over and dodge incoming obstacles while the game progressiv
 
 
 
+
 🧠 Overview
 
 Shmebulock is an arcade-style endless runner focused on obstacle avoidance and speed progression. The game features two types of enemies, a lives system, and dynamic difficulty scaling tied to the player's jump count.
@@ -14,12 +15,15 @@ This project was developed collaboratively during a hackathon. My personal contr
 
 
 
+
 👤 My Contributions
+
 Parallax Scrolling System: Implemented a dual-layer scrolling background with independent speed multipliers to create a depth effect
 
 Speed Progression System: Designed a dynamic game speed system that scales based on the player's jump count, increasing difficulty over time
 
 Obstacle Spawn & Timing System: Built the enemy spawn logic with randomized intervals that shorten as the game progresses, keeping difficulty balanced yet challenging
+
 
 
 
@@ -39,9 +43,11 @@ Sprite Animation: Frame-based hero and environment animations
 
 
 
+
 🕹️ Controls
 
 InputActionSPACEJumpENTERStart / Pause / Resume / Restart
+
 
 
 
@@ -52,6 +58,7 @@ Python 3
 Pygame Zero (pgzero)
 
 PyInstaller (for Windows build)
+
 
 
 
