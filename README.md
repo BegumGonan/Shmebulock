@@ -7,19 +7,17 @@ Shmebulock is an arcade-style endless runner focused on obstacle avoidance and s
 This project was developed collaboratively during a hackathon. My personal contributions focused on the core engine-side systems rather than visuals or game design.
 
 👤 My Contributions
-Parallax Scrolling System — Implemented a dual-layer scrolling background with independent speed multipliers to create a depth effect
-Speed Progression System — Designed a dynamic game speed system that scales based on the player's jump count, increasing difficulty over time
-Obstacle Spawn & Timing System — Built the enemy spawn logic with randomized intervals that shorten as the game progresses, keeping difficulty balanced yet challenging
-
+Parallax Scrolling System: Implemented a dual-layer scrolling background with independent speed multipliers to create a depth effect
+Speed Progression System: Designed a dynamic game speed system that scales based on the player's jump count, increasing difficulty over time
+Obstacle Spawn & Timing System: Built the enemy spawn logic with randomized intervals that shorten as the game progresses, keeping difficulty balanced yet challenging
 
 🎮 Core Features
-Endless Runner Loop — Continuous scrolling with no predefined end
-Two Enemy Types — Ground boxes and oscillating flying enemies
-Lives System — 3 lives with invincibility frames after taking damage
-Dynamic Difficulty — Speed and spawn rate increase the longer you survive
-Game States — Start screen, gameplay, pause, and game over screens
-Sprite Animation — Frame-based hero and environment animations
-
+Endless Runner Loop: Continuous scrolling with no predefined end
+Two Enemy Types: Ground boxes and oscillating flying enemies
+Lives System: 3 lives with invincibility frames after taking damage
+Dynamic Difficulty: Speed and spawn rate increase the longer you survive
+Game States: Start screen, gameplay, pause, and game over screens
+Sprite Animation: Frame-based hero and environment animations
 
 🕹️ Controls
 InputActionSPACEJumpENTERStart / Pause / Resume / Restart
@@ -28,7 +26,6 @@ InputActionSPACEJumpENTERStart / Pause / Resume / Restart
 Python 3
 Pygame Zero (pgzero)
 PyInstaller (for Windows build)
-
 
 👥 Development
 Team size: 4 people
