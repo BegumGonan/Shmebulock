@@ -12,11 +12,17 @@ Speed Progression System: Designed a dynamic game speed system that scales based
 Obstacle Spawn & Timing System: Built the enemy spawn logic with randomized intervals that shorten as the game progresses, keeping difficulty balanced yet challenging
 
 🎮 Core Features
+
 Endless Runner Loop: Continuous scrolling with no predefined end
+
 Two Enemy Types: Ground boxes and oscillating flying enemies
+
 Lives System: 3 lives with invincibility frames after taking damage
+
 Dynamic Difficulty: Speed and spawn rate increase the longer you survive
+
 Game States: Start screen, gameplay, pause, and game over screens
+
 Sprite Animation: Frame-based hero and environment animations
 
 🕹️ Controls
